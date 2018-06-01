@@ -48,3 +48,17 @@ img {
 a {
     font-size: 40px;
   }
+  .scenario {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+.scenario2 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 400px;
+}
+p1 {
+  font-size: 30px;
