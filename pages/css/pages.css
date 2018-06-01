@@ -14,5 +14,34 @@ body {
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
-
-/* Voeg jouw css hieraan toe */
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    background-color: #FFFFFF;
+    margin: 20px;
+    padding: 10px;
+    font-size: 10px;
+  }
+  .flex-container > div > h3{
+    background-color: rgba(64, 233, 83, 0.87);
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-bottom: 6px solid #AFAFAF;
+  }
+  .flex-container > div > h4{
+    background-color: rgba(245, 61, 61, 0.87);
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-bottom: 6px solid #AFAFAF;
+  }
+  .flex-container > div > p{
+    background-color: rgba(161, 234, 240, 0.87);
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    box-shadow: 2px 2px;
+  }
