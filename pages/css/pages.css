@@ -22,7 +22,7 @@ img {
     background-color: #FFFFFF;
     margin: 20px;
     padding: 10px;
-    font-size: 10px;
+    font-size: 40px;
   }
   .flex-container > div > h3{
     background-color: rgba(64, 233, 83, 0.87);
@@ -44,4 +44,7 @@ img {
     padding: 10px;
     font-size: 20px;
     box-shadow: 2px 2px;
+  }
+a {
+    font-size: 40px;
   }
