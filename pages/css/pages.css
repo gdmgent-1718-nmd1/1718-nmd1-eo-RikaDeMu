@@ -76,3 +76,47 @@ p1 {
   line-height: 75px;
   font-size: 30px;
 }
+.kleurenpalet {
+  display: flex;
+}
+
+.kleurenpalet > div {
+  background-color: #1ABCD6;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kleurenpalet > div2 {
+  background-color: #C140E8;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kleurenpalet > div3 {
+  background-color: #E8E021;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #000000;
+}
+.kleurenpalet > div4 {
+  background-color: #F5B038;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kleurenpalet > div5 {
+  background-color: #FF5452;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
