@@ -120,3 +120,11 @@ p1 {
   font-size: 20px;
   color: #FFFFFF;
 }
+.kleurenpalet > div6 {
+  background-color: #D5F5FA;
+  margin: 5px;
+  padding: 20px;
+  height: 140px;
+  font-size: 20px;
+  color: #000000;
+}
