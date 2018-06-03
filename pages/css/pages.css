@@ -276,3 +276,84 @@ p5 {
   color: #0A103C;
   font-size: 20px;
 }
+.dropbtn {
+  background-color: #1ABCD6;
+  color: #000000;
+  padding: 16px;
+  font-family: serif;
+  font-size: 30px;
+  width: 200%;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 200%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-size: 25px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 25px;
+  width: 85%;
+}
+
+.dropdown-content a:hover {background-color: #A2E6F1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #1ABCD6;
+}
+
+
+.form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 20%;
+  background: #f1f1f1;
+  
+}
+
+.form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+.form.example button:hover {
+  background: #0b7dda;
+}
+
+p6 {
+  font-family: 'serif';
+  color: #0A103C;
+  font-size: 48px;
+}
+p7 {
+  font-family: 'Segoe UI';
+  color: #0A103C;
+  font-size: 60px;
