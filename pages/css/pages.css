@@ -357,3 +357,58 @@ p7 {
   font-family: 'Segoe UI';
   color: #0A103C;
   font-size: 60px;
+}
+p8 {
+    font-family: 'Segoe UI';
+    color: #0A103C;
+    font-size: 49px;
+  }
+p12 {
+  font-family: 'serif';
+  color: #0A103C;
+  font-size: 33px;
+  }
+p9 {
+  font-family: 'Segoe UI';
+  color: #D7D8DB;
+  font-size: 33px;
+  }
+p10 {
+  font-family: 'Segoe UI';
+  color: #C140E8;
+  font-size: 33px;
+  }
+p11 {
+  font-family: 'Segoe UI';
+  color: #D7D8DB;
+  font-size: 20px;
+  }
+p13 {
+  font-family: 'Segoe UI';
+  color: #D7D8DB;
+  font-size: 35px;
+  }
+.ticketbutton {
+  float: left;
+  width: 12%;
+  padding: 10px;
+  height: 90px;
+  }
+.button {
+  background-color: #FFFFFF;
+  border: none;
+  color: #0A103C;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 100%;
+  }
+.button4 {border-radius: 20px;}
+p90 {
+  font-family: 'Segoe UI';
+  color: #0A103C;
+  font-size: 30px;
+}
